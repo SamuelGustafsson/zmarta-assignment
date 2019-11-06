@@ -1,6 +1,6 @@
 # Zmarta Assignment
 
-Zmarta employment test. The task is to build a frontend application with Vuejs after a premade design.
+Zmarta employment test. The assignment was to build a frontend application with Vuejs after a premade design.
 
 Author: Samuel Gustasson
 
