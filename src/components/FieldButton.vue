@@ -20,6 +20,7 @@
         />
       </svg>
     </template>
+
     <template v-else>
       <svg
         data-v-e46fefb6
@@ -45,7 +46,7 @@
  
 <script>
 export default {
-  name: "IncrementBtn",
+  name: "FieldButton",
   props: {
     onClick: Function,
     increment: Boolean
